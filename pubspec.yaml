@@ -1,0 +1,36 @@
+name: whatsapp_clone
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/images/giresununi.png 
+    - lib/assets/images/whatsapp.png
+    - lib/assets/images/instagram.png
+    - lib/assets/images/21.jpg
+    - lib/assets/images/32.jpg
+    - lib/assets/images/66.jpg
+    - lib/assets/images/68.jpg
+    - lib/assets/images/76.jpg
+    - lib/assets/images/besiktas.jpg
+    - lib/assets/images/shiftDelete.jpg
+    - lib/assets/images/btkAkademi.jpg
+    - lib/assets/images/bpt.jpg
+    - lib/assets/images/migros.jpg
+    - lib/assets/images/trendyol.jpg
